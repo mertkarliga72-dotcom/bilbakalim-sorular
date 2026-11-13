@@ -179,8 +179,4 @@
           "NASA",
           "MIT",
           "Google"
-        ]
-      }
-    ]
-  }
-}
+      {"q": "Samsung Firması Hangi Yıl Kurulmuştur?", "a": ["1999", "yanlış 1", "yanlış 2", "yanlış 3"]}
