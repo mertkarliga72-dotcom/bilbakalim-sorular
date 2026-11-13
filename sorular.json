@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "categories": {
+    "Teknoloji": [
+      {
+        "q": "Bilgisayar faresini icat eden kişi kimdir?",
+        "a": [
+          "Douglas Engelbart",
+          "Bill Gates",
+          "Steve Jobs",
+          "Alan Turing"
+        ]
+      },
+      {
+        "q": "İlk iPhone hangi yıl tanıtıldı?",
+        "a": [
+          "2007",
+          "2005",
+          "2009",
+          "2010"
+        ]
+      },
+      {
+        "q": "USB kısaltmasındaki “U” harfi neyi ifade eder?",
+        "a": [
+          "Universal (Evrensel)",
+          "Ultra",
+          "Unique",
+          "Unified"
+        ]
+      },
+      {
+        "q": "Wi-Fi hangi tür dalgalarla çalışır?",
+        "a": [
+          "Radyo dalgaları",
+          "Ses dalgaları",
+          "X ışınları",
+          "Mors sinyalleri"
+        ]
+      },
+      {
+        "q": "Bluetooth adı hangi tarihî kişiden gelir?",
+        "a": [
+          "Kral Harald Mavidiş",
+          "Kral Olaf",
+          "Kral Erik",
+          "Kral Knut"
+        ]
+      },
+      {
+        "q": "QR kod hangi ülkede geliştirilmiştir?",
+        "a": [
+          "Japonya",
+          "ABD",
+          "Almanya",
+          "Güney Kore"
+        ]
+      },
+      {
+        "q": "“AI” kısaltması neyi ifade eder?",
+        "a": [
+          "Artificial Intelligence (Yapay Zekâ)",
+          "Automatic Internet",
+          "Advanced Input",
+          "Applied Interface"
+        ]
+      },
+      {
+        "q": "ChatGPT’yi hangi şirket geliştirmiştir?",
+        "a": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Microsoft"
+        ]
+      },
+      {
+        "q": "1 bayt kaç bittir?",
+        "a": [
+          "8",
+          "4",
+          "16",
+          "10"
+        ]
+      },
+      {
+        "q": "HTML ne için kullanılır?",
+        "a": [
+          "Web sayfası oluşturmak",
+          "Veritabanı yönetmek",
+          "Oyun motoru çalıştırmak",
+          "Ses düzenlemek"
+        ]
+      }
+    ]
+  },
+  "modes": {
+    "daily": [
+      {
+        "q": "Bir bitkinin yapraklarındaki yeşil rengi veren madde nedir?",
+        "a": [
+          "Klorofil",
+          "Karotin",
+          "Melanin",
+          "Hemoglobin"
+        ]
+      },
+      {
+        "q": "Dünyanın en derin okyanus çukuru hangisidir?",
+        "a": [
+          "Mariana Çukuru",
+          "Puerto Riko Çukuru",
+          "Java Çukuru",
+          "Tonga Çukuru"
+        ]
+      },
+      {
+        "q": "Işığın saniyedeki hızı yaklaşık kaç km’dir?",
+        "a": [
+          "300.000",
+          "150.000",
+          "30.000",
+          "3.000.000"
+        ]
+      }
+    ],
+    "time": [
+      {
+        "q": "6 × 9 işleminin sonucu kaçtır?",
+        "a": [
+          "54",
+          "56",
+          "63",
+          "48"
+        ]
+      },
+      {
+        "q": "250’nin yarısı kaçtır?",
+        "a": [
+          "125",
+          "100",
+          "150",
+          "175"
+        ]
+      },
+      {
+        "q": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+        "a": [
+          "180",
+          "90",
+          "360",
+          "270"
+        ]
+      }
+    ],
+    "duel": [
+      {
+        "q": "Wikipedia hangi yıl kurulmuştur?",
+        "a": [
+          "2001",
+          "1995",
+          "2005",
+          "2010"
+        ]
+      },
+      {
+        "q": "Netflix başlangıçta ne hizmeti sunuyordu?",
+        "a": [
+          "DVD kiralama",
+          "Radyo yayını",
+          "Oyun satışı",
+          "Kitap satışı"
+        ]
+      },
+      {
+        "q": "Dünyanın ilk web sitesi hangi kurumda yayınlanmıştır?",
+        "a": [
+          "CERN",
+          "NASA",
+          "MIT",
+          "Google"
+        ]
+      }
+    ]
+  }
+}
